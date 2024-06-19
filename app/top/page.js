@@ -1,6 +1,6 @@
 import React from "react";
 import * as top from "@/features/top/components/index";
-import example_util from "@/app/utils/example_util";
+import example_util from "@/utils/example_util";
 
 function page() {
   //データ取得はpageでしか行わない。
